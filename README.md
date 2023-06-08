@@ -6,6 +6,9 @@ Les notes sont attribuées à des touches du clavier
 
 2 Octaves :musical_score:
 
+Librairies utilisées : **getch**, **pygame**
+##
+
 <ins>Le SRC contient</ins> :
 * le code :computer:
 * le fichier son de chaque note :notes:
