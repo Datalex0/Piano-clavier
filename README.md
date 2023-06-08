@@ -8,7 +8,7 @@ Les notes sont attribuées à des touches du clavier
 
 <ins>Le SRC contient</ins> :
 * le code :computer:
-* les notes :notes:
+* le fichier son de chaque note :notes:
 
 <ins>Attribution des touches</ins> : 
 | Note | Touche |
