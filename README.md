@@ -4,11 +4,11 @@
 
 Les notes sont attribuées à des touches du clavier
 
-2 Octaves
+2 Octaves :musical_score:
 
 <ins>Le SRC contient</ins> :
-* le code
-* les notes
+* le code :computer:
+* les notes :notes:
 
 <ins>Attribution des touches</ins> : 
 | Note | Touche |
